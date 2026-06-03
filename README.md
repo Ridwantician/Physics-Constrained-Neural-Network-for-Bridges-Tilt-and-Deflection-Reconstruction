@@ -1,6 +1,7 @@
 # Physics-Constrained Neural Network for Bridge Tilt and Deflection Reconstruction
 
 **Author:** Ridwan Ademola Ibrahim
+
 **Program:** Erasmus Mundus MSc in Smart Cities and Communities (SMACCs)
 
 ---
